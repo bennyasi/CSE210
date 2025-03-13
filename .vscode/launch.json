@@ -1,0 +1,26 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "C#: Launch HelloWorld",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/HelloWorld/bin/Debug/net9.0/HelloWorld.dll",
+            "cwd": "${workspaceFolder}/HelloWorld"
+        },
+        {
+            "name": "C#: Attach to Process",
+            "type": "coreclr",
+            "request": "attach"
+        },
+        {
+            "name": "C#: Launch with Arguments",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/HelloWorld/bin/Debug/net9.0/HelloWorld.dll",
+            "cwd": "${workspaceFolder}/HelloWorld",
+            "args": ["arg1", "arg2"]
+        }
+    ]
+}
