@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week3", "week3", "{B97A94D1-D783-F34A-A832-561BBE27D2D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fractions", "week3\fractions\fractions.csproj", "{501CF67E-0424-5DA8-24A8-C77F70E51514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sripturememorizer", "week3\ScriptureMemorizer\sripturememorizer.csproj", "{49FD253F-239A-958E-B032-D1D551B082BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501CF67E-0424-5DA8-24A8-C77F70E51514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501CF67E-0424-5DA8-24A8-C77F70E51514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501CF67E-0424-5DA8-24A8-C77F70E51514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501CF67E-0424-5DA8-24A8-C77F70E51514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FD253F-239A-958E-B032-D1D551B082BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FD253F-239A-958E-B032-D1D551B082BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FD253F-239A-958E-B032-D1D551B082BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FD253F-239A-958E-B032-D1D551B082BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{501CF67E-0424-5DA8-24A8-C77F70E51514} = {B97A94D1-D783-F34A-A832-561BBE27D2D2}
+		{49FD253F-239A-958E-B032-D1D551B082BA} = {B97A94D1-D783-F34A-A832-561BBE27D2D2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90F8AEDA-8347-46A8-9A41-CF844110747B}
+	EndGlobalSection
+EndGlobal
