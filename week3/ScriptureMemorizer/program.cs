@@ -49,8 +49,4 @@ public class Program
             }
         }
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> df6b1e3 (Updated Week 3 assignment files)
