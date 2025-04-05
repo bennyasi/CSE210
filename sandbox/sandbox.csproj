@@ -1,0 +1,11 @@
+
+<project SDK= "microft.NET.SDK">
+
+<property group>
+<output type> Exe</output type>
+<target framework> net9.0</target framework>
+ <ImplicitUsings>enable</ImplicitUsings>
+ <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  </Project>
